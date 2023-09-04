@@ -1,0 +1,82 @@
+#about img {
+    width: 200px;
+    height: 200px;
+}
+
+.table_p {
+    padding: 5%;
+}
+
+
+body {
+    background-color:#212529 ;
+}
+
+header, section {
+    margin: 5%;
+    color:#fff;
+    font-size: 1.5rem;
+}
+
+.col-lg-4 {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+.card_img {
+    justify-self: center;
+    width: 100%;
+    height: 350px;
+   
+}
+
+
+.col-lg-4 a{
+    position: absolute;
+    text-decoration: none;
+    font-size: 25rem;
+    color: #fff;
+    transform: translate(-105%, -50%);
+    z-index: 3;
+    opacity: 60%;
+}
+
+.portfolio_container {
+    margin: 0 auto;
+}
+
+.card  a{
+    font-size: 1.5rem;
+}
+
+.about_card {
+    margin: 0 auto;
+}
+
+.resume_head p{
+    padding: 5%;
+}
+.mail {
+    display: flex;
+   justify-content: center;
+   padding-bottom: 20px;
+   font-size: 2rem;
+   text-decoration: none;
+}
+.mail a {
+    text-decoration: none;
+    color:#FFF;
+}
+
+footer a img {
+width: 50px;
+margin: 0 auto;
+padding-left: 20px;
+filter: invert();
+}
